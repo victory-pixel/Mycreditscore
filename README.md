@@ -7,7 +7,7 @@ A credit score (0–1000)
 Behavioral financial analysis
 Risk level classification (Low / Medium / High)
 Human-readable explanation of the score
-How It Works
+# How It Works
 User inputs or pastes mobile money transaction history
 AI analyzes financial patterns:
 Income consistency
@@ -17,14 +17,14 @@ The system generates:
 Credit score
 Risk category
 Explanation of reasoning
- Example Input
-Plain text
+ # Example Input
+
 +500,000 MoMo deposit (salary)
 -50,000 groceries
 -20,000 transport
 +300,000 business income
 -100,000 rent
-📤 Example Output
+# Example Output
 Credit Score: 740 / 1000
 Risk Level: Medium
 Explanation: The user shows consistent income patterns with moderate spending. Financial behavior suggests stable repayment potential with minor irregularities.
